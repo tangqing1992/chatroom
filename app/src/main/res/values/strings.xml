@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatRoom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="rim">周边</string>
+    <string name="msg">消息</string>
+    <string name="me">我的</string>
+</resources>
