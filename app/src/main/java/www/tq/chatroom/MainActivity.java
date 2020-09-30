@@ -39,8 +39,6 @@ public class MainActivity extends AppCompatActivity {
         ServiceUnit.getInstance().start();
         ConfigAddressUnit.getInstance();
 
-
-
         bnt_send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
