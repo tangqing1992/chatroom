@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     private Button bnt_send;
     private  String string = "";
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
